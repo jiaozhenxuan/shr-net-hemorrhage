@@ -4,4 +4,4 @@ This repository provides a minimal public release for the SHR-Net hemorrhage seg
 
 ## Included
 
-- `networks/shr_net.py`: SHR-Net architecture implementation.
+- `shr_net.py`: SHR-Net architecture implementation.
